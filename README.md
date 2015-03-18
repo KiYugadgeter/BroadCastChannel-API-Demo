@@ -1,2 +1,4 @@
-# broadcastchannelapidemo
-Simple Demo of Broadcast Channel API
+# Simple Demo of Broadcast Channel API
+
+##Require
+* Firefox38 or later
