@@ -10,8 +10,6 @@ bro.onmessage = function (ev) {
 
 sendbutton.onclick = function (e) {
     var v = input.value;
-    var myobj = {};
-    myobj[v] = Date()
-    bro.postMessage(myobj);
+    bro.postMessage(v);
 
 }
